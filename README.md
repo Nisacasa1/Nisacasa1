@@ -1,17 +1,18 @@
-### Bienvenido a mi perfil! 
-Estudiante de 3er semestre de Ingeniería de Sistemas. Apasionado por la tecnología y por aprender todo acerca del Software. En 5 años seré uno de los desarrolladores más reconocidos a nivel mundial. Recuerda mi nombre y sé libre de revisar mis proyectos.
+# 🚀 Hola, soy Nico Cadena
 
-<!--
-**Nisacasa1/Nisacasa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Sistemas | 3er Semestre
+Apasionado por la **Ciberseguridad** y el desarrollo **Full Stack**. Mi meta es construir soluciones robustas y seguras, aplicando la disciplina que tengo en el deporte a la tecnología.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Mis Skills
+
+| Foco Principal | Lenguajes | Frameworks/DB | Herramientas |
+| :--- | :--- | :--- | :--- |
+| **Ciberseguridad** | Python, Bash | SQL | Linux, Git, Nmap (Conceptos) |
+| **Full Stack** | JavaScript, HTML, CSS | Node.js, Express, MongoDB | VS Code, Figma |
+
+---
+
+## 🌱 Proyectos Destacados
+Próximamente
