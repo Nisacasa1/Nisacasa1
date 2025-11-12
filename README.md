@@ -1,7 +1,7 @@
 # 🚀 Hola, soy Nico Cadena
 
 Estudiante de Ingeniería de Sistemas | 3er Semestre
-Apasionado por la **Ciberseguridad** y el desarrollo **Full Stack**. Mi meta es construir soluciones robustas y seguras, aplicando la disciplina que tengo en el deporte a la tecnología.
+Apasionado por la **Ciberseguridad** y el desarrollo **Full Stack** y el desarrollo de **IA**. Mi meta es construir soluciones robustas y seguras, aplicando la disciplina que tengo en el deporte a la tecnología.
 
 ---
 
